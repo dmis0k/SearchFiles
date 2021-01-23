@@ -1,0 +1,10 @@
+C:\Users\Дмитрий Соколов\source\repos\Search Files\Search Files\bin\Release\Search Files.exe.config
+C:\Users\Дмитрий Соколов\source\repos\Search Files\Search Files\bin\Release\Search Files.exe
+C:\Users\Дмитрий Соколов\source\repos\Search Files\Search Files\bin\Release\Search Files.pdb
+C:\Users\Дмитрий Соколов\source\repos\Search Files\Search Files\obj\Release\Search Files.csprojAssemblyReference.cache
+C:\Users\Дмитрий Соколов\source\repos\Search Files\Search Files\obj\Release\Search_Files.MainForm.resources
+C:\Users\Дмитрий Соколов\source\repos\Search Files\Search Files\obj\Release\Search_Files.Properties.Resources.resources
+C:\Users\Дмитрий Соколов\source\repos\Search Files\Search Files\obj\Release\Search Files.csproj.GenerateResource.cache
+C:\Users\Дмитрий Соколов\source\repos\Search Files\Search Files\obj\Release\Search Files.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий Соколов\source\repos\Search Files\Search Files\obj\Release\Search Files.exe
+C:\Users\Дмитрий Соколов\source\repos\Search Files\Search Files\obj\Release\Search Files.pdb
